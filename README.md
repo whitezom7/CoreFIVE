@@ -29,15 +29,15 @@ Since CoreFIVE is primarily designed as a solo development and learning project,
 
 ## License
 
-CoreFIVE is released under the [MIT License](https://github.com/whitezom7/CoreFIVE/blob/main/LICENSE). You are free to use, modify, and distribute CoreFIVE for your personal learning and development projects.
+CoreFIVE is released under the [MIT License](https://github.com/whitezom7/CoreFIVE/blob/main/LICENSE). You are free to use, modify, and distribute CoreFIVE for your personal and commercial projects.
 
 ## Support
 
-As a solo development and learning project, direct support for CoreFIVE is limited. However, you can refer to the CoreFIVE documentation, explore online resources, and engage with the wider FiveM and C# developer community for assistance and learning opportunities.
+As a solo development project, direct support for CoreFIVE is limited. However, you can explore online resources, and engage with the wider FiveM and C# developer community for assistance and learning opportunities.
 
 ## About
 
-CoreFIVE is a solo development and learning project aimed at providing developers with a platform to explore the FiveM RP environment, enhance their development skills, and create customized RP experiences.
+CoreFIVE is a solo development project aimed at providing developers with a platform to explore the FiveM RP environment, enhance their development skills, and create customized RP experiences.
 
 --
 
