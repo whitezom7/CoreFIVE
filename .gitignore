@@ -1,3 +1,4 @@
 cache
 server.cfg*
 .replxx_history
+.config/dotnet-tools.json
